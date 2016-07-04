@@ -111,6 +111,7 @@ Below is the description of the variables
       <td>51.4000015258789</td>
       <td>46.72</td>
     </tr>
+    
     <tr>
       <th>2</th>
       <td>Algeria</td>
